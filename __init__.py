@@ -17,9 +17,9 @@
 from __future__ import annotations
 
 bl_info = {
-    "name": "BHQUPD Test 4.0.0",
+    "name": "BHQUPD Test 4.0.3",
     "author": "Ivan Perevala (ivpe)",
-    "version": (4, 0, 0),
+    "version": (4, 0, 3),
     "blender": (4, 0, 0),
     "support": 'COMMUNITY',
     "category": "Development",
